@@ -120,7 +120,7 @@ CREATE TABLE `feedback` (
   `Model` varchar(30) NOT NULL,
   `Rating` int(10) NOT NULL,
   `Comment` varchar(30) NOT NULL,
-  `A_login_id` varchar(30) DEFAULT 'root@gmail.in',
+  `A_login_id` varchar(30) DEFAULT 'root@gmail.com',
   `U_login_id` varchar(30) NOT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4;
 
