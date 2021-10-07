@@ -16,7 +16,7 @@ body, html {
 
   
   <ul class="menu">
-    <li><a href="../INDEX.html">Home</a></li>
+    <li><a href="../index.html">Home</a></li>
     <li style ="float:right"><a href="../user/login.php">User Login</a> </li>
     <li style ="float:right"><a href="login.php">Admin Login</a></li>
     <li><a href="../about/about.html">About</a></li>
